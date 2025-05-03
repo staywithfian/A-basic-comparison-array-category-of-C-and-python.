@@ -1,1 +1,1 @@
-# A-basic-comparison-array-category-of-C-and-python.
+# A-basic-comparison-array-category-of-C++-and-python.
